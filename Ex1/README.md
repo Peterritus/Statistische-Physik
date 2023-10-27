@@ -1,0 +1,1 @@
+This covers sheet 1 in statistical physics. All plots are saved and both parts of the exercise are done in separate files. Comments indicate wich part of the code covers what subexercise.

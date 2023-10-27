@@ -19,7 +19,7 @@ norm = np.random.randn(10000)
 pois = np.random.poisson(3, 10000)
 
 fig, axs = plt.subplots(2,2)
-plt.title('1 b')
+fig.suptitle('1 b')
 axs[0, 0].hist(unif)
 axs[0, 0].set_xlabel('Value')
 axs[0, 0].set_ylabel('Count')
